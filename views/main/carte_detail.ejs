@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include ../partials/head %>
+</head>
+<body class="container">
+
+<header>
+    <% include ../partials/header %>
+</header>
+
+<main style="column-count:2; column-rule: 1px solid black">
+    <div class="jumbotron">
+        <h3 class="details">Détails de la Carte</h3>
+        <p><%= cartes[0].nom_resto %></p>
+        <p><%= cartes[0].adresse %></p>
+        <p><%= cartes[0].zip %></p>
+        <p><%= cartes[0].ville_resto %></p>
+        <p><%= cartes[0].pays_resto %></p>
+        <img src="/images/<%= cartes[0].img_resto %>.jpg" class="center" width="250">
+    </div>
+
+    <div class="jumbotron">
+    <iframe
+        width="400"
+        height="525"
+        frameborder="0" style="border:0"
+        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBY2DuuwSeenhZoMZtcshsm3HqIsGNDebY
+             &q=<%= cartes[0].nom_resto %>,<%= cartes[0].adresse %>,<%= cartes[0].ville_resto %>" allowfullscreen>
+    </iframe>
+    </div>
+</div>
+</main>
+<div class="jumbotron">
+    <p>Commentaires</p>
+</div>
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+</body>
+</html>
+
+
+<!-- API KEY: AIzaSyBY2DuuwSeenhZoMZtcshsm3HqIsGNDebY -->

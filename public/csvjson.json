@@ -1,0 +1,725 @@
+[
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "1,\"4\",\"AF\",\"AFG\",\"Afghanistan\",\"Afghanistan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "2,\"8\",\"AL\",\"ALB\",\"Albanie\",\"Albania"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "3,\"10\",\"AQ\",\"ATA\",\"Antarctique\",\"Antarctica"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "4,\"12\",\"DZ\",\"DZA\",\"Algérie\",\"Algeria"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "5,\"16\",\"AS\",\"ASM\",\"Samoa Américaines\",\"American Samoa"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "6,\"20\",\"AD\",\"AND\",\"Andorre\",\"Andorra"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "7,\"24\",\"AO\",\"AGO\",\"Angola\",\"Angola"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "8,\"28\",\"AG\",\"ATG\",\"Antigua-et-Barbuda\",\"Antigua and Barbuda"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "9,\"31\",\"AZ\",\"AZE\",\"Azerbaïdjan\",\"Azerbaijan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "10,\"32\",\"AR\",\"ARG\",\"Argentine\",\"Argentina"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "11,\"36\",\"AU\",\"AUS\",\"Australie\",\"Australia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "12,\"40\",\"AT\",\"AUT\",\"Autriche\",\"Austria"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "13,\"44\",\"BS\",\"BHS\",\"Bahamas\",\"Bahamas"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "14,\"48\",\"BH\",\"BHR\",\"Bahreïn\",\"Bahrain"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "15,\"50\",\"BD\",\"BGD\",\"Bangladesh\",\"Bangladesh"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "16,\"51\",\"AM\",\"ARM\",\"Arménie\",\"Armenia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "17,\"52\",\"BB\",\"BRB\",\"Barbade\",\"Barbados"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "18,\"56\",\"BE\",\"BEL\",\"Belgique\",\"Belgium"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "19,\"60\",\"BM\",\"BMU\",\"Bermudes\",\"Bermuda"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "20,\"64\",\"BT\",\"BTN\",\"Bhoutan\",\"Bhutan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "21,\"68\",\"BO\",\"BOL\",\"Bolivie\",\"Bolivia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "22,\"70\",\"BA\",\"BIH\",\"Bosnie-Herzégovine\",\"Bosnia and Herzegovina"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "23,\"72\",\"BW\",\"BWA\",\"Botswana\",\"Botswana"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "24,\"74\",\"BV\",\"BVT\",\"Île Bouvet\",\"Bouvet Island"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "25,\"76\",\"BR\",\"BRA\",\"Brésil\",\"Brazil"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "26,\"84\",\"BZ\",\"BLZ\",\"Belize\",\"Belize"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "27,\"86\",\"IO\",\"IOT\",\"Territoire Britannique de l'Océan Indien\",\"British Indian Ocean Territory"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "28,\"90\",\"SB\",\"SLB\",\"Îles Salomon\",\"Solomon Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "29,\"92\",\"VG\",\"VGB\",\"Îles Vierges Britanniques\",\"British Virgin Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "30,\"96\",\"BN\",\"BRN\",\"Brunéi Darussalam\",\"Brunei Darussalam"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "31,\"100\",\"BG\",\"BGR\",\"Bulgarie\",\"Bulgaria"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "32,\"104\",\"MM\",\"MMR\",\"Myanmar\",\"Myanmar"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "33,\"108\",\"BI\",\"BDI\",\"Burundi\",\"Burundi"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "34,\"112\",\"BY\",\"BLR\",\"Bélarus\",\"Belarus"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "35,\"116\",\"KH\",\"KHM\",\"Cambodge\",\"Cambodia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "36,\"120\",\"CM\",\"CMR\",\"Cameroun\",\"Cameroon"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "37,\"124\",\"CA\",\"CAN\",\"Canada\",\"Canada"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "38,\"132\",\"CV\",\"CPV\",\"Cap-vert\",\"Cape Verde"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "39,\"136\",\"KY\",\"CYM\",\"Îles Caïmanes\",\"Cayman Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "40,\"140\",\"CF\",\"CAF\",\"République Centrafricaine\",\"Central African"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "41,\"144\",\"LK\",\"LKA\",\"Sri Lanka\",\"Sri Lanka"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "42,\"148\",\"TD\",\"TCD\",\"Tchad\",\"Chad"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "43,\"152\",\"CL\",\"CHL\",\"Chili\",\"Chile"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "44,\"156\",\"CN\",\"CHN\",\"Chine\",\"China"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "45,\"158\",\"TW\",\"TWN\",\"Taïwan\",\"Taiwan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "46,\"162\",\"CX\",\"CXR\",\"Île Christmas\",\"Christmas Island"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "47,\"166\",\"CC\",\"CCK\",\"Îles Cocos (Keeling)\",\"Cocos (Keeling) Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "48,\"170\",\"CO\",\"COL\",\"Colombie\",\"Colombia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "49,\"174\",\"KM\",\"COM\",\"Comores\",\"Comoros"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "50,\"175\",\"YT\",\"MYT\",\"Mayotte\",\"Mayotte"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "51,\"178\",\"CG\",\"COG\",\"République du Congo\",\"Republic of the Congo"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "52,\"180\",\"CD\",\"COD\",\"République Démocratique du Congo\",\"The Democratic Republic Of The Congo"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "53,\"184\",\"CK\",\"COK\",\"Îles Cook\",\"Cook Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "54,\"188\",\"CR\",\"CRI\",\"Costa Rica\",\"Costa Rica"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "55,\"191\",\"HR\",\"HRV\",\"Croatie\",\"Croatia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "56,\"192\",\"CU\",\"CUB\",\"Cuba\",\"Cuba"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "57,\"196\",\"CY\",\"CYP\",\"Chypre\",\"Cyprus"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "58,\"203\",\"CZ\",\"CZE\",\"République Tchèque\",\"Czech Republic"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "59,\"204\",\"BJ\",\"BEN\",\"Bénin\",\"Benin"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "60,\"208\",\"DK\",\"DNK\",\"Danemark\",\"Denmark"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "61,\"212\",\"DM\",\"DMA\",\"Dominique\",\"Dominica"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "62,\"214\",\"DO\",\"DOM\",\"République Dominicaine\",\"Dominican Republic"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "63,\"218\",\"EC\",\"ECU\",\"Équateur\",\"Ecuador"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "64,\"222\",\"SV\",\"SLV\",\"El Salvador\",\"El Salvador"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "65,\"226\",\"GQ\",\"GNQ\",\"Guinée Équatoriale\",\"Equatorial Guinea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "66,\"231\",\"ET\",\"ETH\",\"Éthiopie\",\"Ethiopia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "67,\"232\",\"ER\",\"ERI\",\"Érythrée\",\"Eritrea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "68,\"233\",\"EE\",\"EST\",\"Estonie\",\"Estonia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "69,\"234\",\"FO\",\"FRO\",\"Îles Féroé\",\"Faroe Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "70,\"238\",\"FK\",\"FLK\",\"Îles (malvinas) Falkland\",\"Falkland Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "71,\"239\",\"GS\",\"SGS\",\"Géorgie du Sud et les Îles Sandwich du Sud\",\"South Georgia and the South Sandwich Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "72,\"242\",\"FJ\",\"FJI\",\"Fidji\",\"Fiji"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "73,\"246\",\"FI\",\"FIN\",\"Finlande\",\"Finland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "74,\"248\",\"AX\",\"ALA\",\"Îles Åland\",\"Åland Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "75,\"250\",\"FR\",\"FRA\",\"France\",\"France"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "76,\"254\",\"GF\",\"GUF\",\"Guyane Française\",\"French Guiana"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "77,\"258\",\"PF\",\"PYF\",\"Polynésie Française\",\"French Polynesia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "78,\"260\",\"TF\",\"ATF\",\"Terres Australes Françaises\",\"French Southern Territories"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "79,\"262\",\"DJ\",\"DJI\",\"Djibouti\",\"Djibouti"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "80,\"266\",\"GA\",\"GAB\",\"Gabon\",\"Gabon"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "81,\"268\",\"GE\",\"GEO\",\"Géorgie\",\"Georgia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "82,\"270\",\"GM\",\"GMB\",\"Gambie\",\"Gambia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "83,\"275\",\"PS\",\"PSE\",\"Territoire Palestinien Occupé\",\"Occupied Palestinian Territory"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "84,\"276\",\"DE\",\"DEU\",\"Allemagne\",\"Germany"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "85,\"288\",\"GH\",\"GHA\",\"Ghana\",\"Ghana"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "86,\"292\",\"GI\",\"GIB\",\"Gibraltar\",\"Gibraltar"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "87,\"296\",\"KI\",\"KIR\",\"Kiribati\",\"Kiribati"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "88,\"300\",\"GR\",\"GRC\",\"Grèce\",\"Greece"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "89,\"304\",\"GL\",\"GRL\",\"Groenland\",\"Greenland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "90,\"308\",\"GD\",\"GRD\",\"Grenade\",\"Grenada"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "91,\"312\",\"GP\",\"GLP\",\"Guadeloupe\",\"Guadeloupe"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "92,\"316\",\"GU\",\"GUM\",\"Guam\",\"Guam"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "93,\"320\",\"GT\",\"GTM\",\"Guatemala\",\"Guatemala"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "94,\"324\",\"GN\",\"GIN\",\"Guinée\",\"Guinea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "95,\"328\",\"GY\",\"GUY\",\"Guyana\",\"Guyana"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "96,\"332\",\"HT\",\"HTI\",\"Haïti\",\"Haiti"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "97,\"334\",\"HM\",\"HMD\",\"Îles Heard et Mcdonald\",\"Heard Island and McDonald Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "98,\"336\",\"VA\",\"VAT\",\"Saint-Siège (état de la Cité du Vatican)\",\"Vatican City State"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "99,\"340\",\"HN\",\"HND\",\"Honduras\",\"Honduras"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "100,\"344\",\"HK\",\"HKG\",\"Hong-Kong\",\"Hong Kong"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "101,\"348\",\"HU\",\"HUN\",\"Hongrie\",\"Hungary"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "102,\"352\",\"IS\",\"ISL\",\"Islande\",\"Iceland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "103,\"356\",\"IN\",\"IND\",\"Inde\",\"India"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "104,\"360\",\"ID\",\"IDN\",\"Indonésie\",\"Indonesia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "105,\"364\",\"IR\",\"IRN\",\"République Islamique d'Iran\",\"Islamic Republic of Iran"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "106,\"368\",\"IQ\",\"IRQ\",\"Iraq\",\"Iraq"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "107,\"372\",\"IE\",\"IRL\",\"Irlande\",\"Ireland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "108,\"376\",\"IL\",\"ISR\",\"Israël\",\"Israel"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "109,\"380\",\"IT\",\"ITA\",\"Italie\",\"Italy"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "110,\"384\",\"CI\",\"CIV\",\"Côte d'Ivoire\",\"Côte d'Ivoire"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "111,\"388\",\"JM\",\"JAM\",\"Jamaïque\",\"Jamaica"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "112,\"392\",\"JP\",\"JPN\",\"Japon\",\"Japan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "113,\"398\",\"KZ\",\"KAZ\",\"Kazakhstan\",\"Kazakhstan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "114,\"400\",\"JO\",\"JOR\",\"Jordanie\",\"Jordan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "115,\"404\",\"KE\",\"KEN\",\"Kenya\",\"Kenya"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "116,\"408\",\"KP\",\"PRK\",\"République Populaire Démocratique de Corée\",\"Democratic People's Republic of Korea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "117,\"410\",\"KR\",\"KOR\",\"République de Corée\",\"Republic of Korea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "118,\"414\",\"KW\",\"KWT\",\"Koweït\",\"Kuwait"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "119,\"417\",\"KG\",\"KGZ\",\"Kirghizistan\",\"Kyrgyzstan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "120,\"418\",\"LA\",\"LAO\",\"République Démocratique Populaire Lao\",\"Lao People's Democratic Republic"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "121,\"422\",\"LB\",\"LBN\",\"Liban\",\"Lebanon"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "122,\"426\",\"LS\",\"LSO\",\"Lesotho\",\"Lesotho"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "123,\"428\",\"LV\",\"LVA\",\"Lettonie\",\"Latvia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "124,\"430\",\"LR\",\"LBR\",\"Libéria\",\"Liberia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "125,\"434\",\"LY\",\"LBY\",\"Jamahiriya Arabe Libyenne\",\"Libyan Arab Jamahiriya"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "126,\"438\",\"LI\",\"LIE\",\"Liechtenstein\",\"Liechtenstein"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "127,\"440\",\"LT\",\"LTU\",\"Lituanie\",\"Lithuania"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "128,\"442\",\"LU\",\"LUX\",\"Luxembourg\",\"Luxembourg"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "129,\"446\",\"MO\",\"MAC\",\"Macao\",\"Macao"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "130,\"450\",\"MG\",\"MDG\",\"Madagascar\",\"Madagascar"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "131,\"454\",\"MW\",\"MWI\",\"Malawi\",\"Malawi"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "132,\"458\",\"MY\",\"MYS\",\"Malaisie\",\"Malaysia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "133,\"462\",\"MV\",\"MDV\",\"Maldives\",\"Maldives"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "134,\"466\",\"ML\",\"MLI\",\"Mali\",\"Mali"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "135,\"470\",\"MT\",\"MLT\",\"Malte\",\"Malta"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "136,\"474\",\"MQ\",\"MTQ\",\"Martinique\",\"Martinique"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "137,\"478\",\"MR\",\"MRT\",\"Mauritanie\",\"Mauritania"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "138,\"480\",\"MU\",\"MUS\",\"Maurice\",\"Mauritius"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "139,\"484\",\"MX\",\"MEX\",\"Mexique\",\"Mexico"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "140,\"492\",\"MC\",\"MCO\",\"Monaco\",\"Monaco"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "141,\"496\",\"MN\",\"MNG\",\"Mongolie\",\"Mongolia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "142,\"498\",\"MD\",\"MDA\",\"République de Moldova\",\"Republic of Moldova"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "143,\"500\",\"MS\",\"MSR\",\"Montserrat\",\"Montserrat"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "144,\"504\",\"MA\",\"MAR\",\"Maroc\",\"Morocco"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "145,\"508\",\"MZ\",\"MOZ\",\"Mozambique\",\"Mozambique"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "146,\"512\",\"OM\",\"OMN\",\"Oman\",\"Oman"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "147,\"516\",\"NA\",\"NAM\",\"Namibie\",\"Namibia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "148,\"520\",\"NR\",\"NRU\",\"Nauru\",\"Nauru"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "149,\"524\",\"NP\",\"NPL\",\"Népal\",\"Nepal"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "150,\"528\",\"NL\",\"NLD\",\"Pays-Bas\",\"Netherlands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "151,\"530\",\"AN\",\"ANT\",\"Antilles Néerlandaises\",\"Netherlands Antilles"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "152,\"533\",\"AW\",\"ABW\",\"Aruba\",\"Aruba"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "153,\"540\",\"NC\",\"NCL\",\"Nouvelle-Calédonie\",\"New Caledonia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "154,\"548\",\"VU\",\"VUT\",\"Vanuatu\",\"Vanuatu"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "155,\"554\",\"NZ\",\"NZL\",\"Nouvelle-Zélande\",\"New Zealand"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "156,\"558\",\"NI\",\"NIC\",\"Nicaragua\",\"Nicaragua"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "157,\"562\",\"NE\",\"NER\",\"Niger\",\"Niger"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "158,\"566\",\"NG\",\"NGA\",\"Nigéria\",\"Nigeria"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "159,\"570\",\"NU\",\"NIU\",\"Niué\",\"Niue"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "160,\"574\",\"NF\",\"NFK\",\"Île Norfolk\",\"Norfolk Island"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "161,\"578\",\"NO\",\"NOR\",\"Norvège\",\"Norway"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "162,\"580\",\"MP\",\"MNP\",\"Îles Mariannes du Nord\",\"Northern Mariana Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "163,\"581\",\"UM\",\"UMI\",\"Îles Mineures Éloignées des États-Unis\",\"United States Minor Outlying Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "164,\"583\",\"FM\",\"FSM\",\"États Fédérés de Micronésie\",\"Federated States of Micronesia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "165,\"584\",\"MH\",\"MHL\",\"Îles Marshall\",\"Marshall Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "166,\"585\",\"PW\",\"PLW\",\"Palaos\",\"Palau"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "167,\"586\",\"PK\",\"PAK\",\"Pakistan\",\"Pakistan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "168,\"591\",\"PA\",\"PAN\",\"Panama\",\"Panama"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "169,\"598\",\"PG\",\"PNG\",\"Papouasie-Nouvelle-Guinée\",\"Papua New Guinea"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "170,\"600\",\"PY\",\"PRY\",\"Paraguay\",\"Paraguay"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "171,\"604\",\"PE\",\"PER\",\"Pérou\",\"Peru"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "172,\"608\",\"PH\",\"PHL\",\"Philippines\",\"Philippines"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "173,\"612\",\"PN\",\"PCN\",\"Pitcairn\",\"Pitcairn"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "174,\"616\",\"PL\",\"POL\",\"Pologne\",\"Poland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "175,\"620\",\"PT\",\"PRT\",\"Portugal\",\"Portugal"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "176,\"624\",\"GW\",\"GNB\",\"Guinée-Bissau\",\"Guinea-Bissau"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "177,\"626\",\"TL\",\"TLS\",\"Timor-Leste\",\"Timor-Leste"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "178,\"630\",\"PR\",\"PRI\",\"Porto Rico\",\"Puerto Rico"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "179,\"634\",\"QA\",\"QAT\",\"Qatar\",\"Qatar"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "180,\"638\",\"RE\",\"REU\",\"Réunion\",\"Réunion"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "181,\"642\",\"RO\",\"ROU\",\"Roumanie\",\"Romania"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "182,\"643\",\"RU\",\"RUS\",\"Fédération de Russie\",\"Russian Federation"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "183,\"646\",\"RW\",\"RWA\",\"Rwanda\",\"Rwanda"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "184,\"654\",\"SH\",\"SHN\",\"Sainte-Hélène\",\"Saint Helena"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "185,\"659\",\"KN\",\"KNA\",\"Saint-Kitts-et-Nevis\",\"Saint Kitts and Nevis"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "186,\"660\",\"AI\",\"AIA\",\"Anguilla\",\"Anguilla"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "187,\"662\",\"LC\",\"LCA\",\"Sainte-Lucie\",\"Saint Lucia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "188,\"666\",\"PM\",\"SPM\",\"Saint-Pierre-et-Miquelon\",\"Saint-Pierre and Miquelon"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "189,\"670\",\"VC\",\"VCT\",\"Saint-Vincent-et-les Grenadines\",\"Saint Vincent and the Grenadines"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "190,\"674\",\"SM\",\"SMR\",\"Saint-Marin\",\"San Marino"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "191,\"678\",\"ST\",\"STP\",\"Sao Tomé-et-Principe\",\"Sao Tome and Principe"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "192,\"682\",\"SA\",\"SAU\",\"Arabie Saoudite\",\"Saudi Arabia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "193,\"686\",\"SN\",\"SEN\",\"Sénégal\",\"Senegal"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "194,\"690\",\"SC\",\"SYC\",\"Seychelles\",\"Seychelles"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "195,\"694\",\"SL\",\"SLE\",\"Sierra Leone\",\"Sierra Leone"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "196,\"702\",\"SG\",\"SGP\",\"Singapour\",\"Singapore"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "197,\"703\",\"SK\",\"SVK\",\"Slovaquie\",\"Slovakia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "198,\"704\",\"VN\",\"VNM\",\"Viet Nam\",\"Vietnam"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "199,\"705\",\"SI\",\"SVN\",\"Slovénie\",\"Slovenia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "200,\"706\",\"SO\",\"SOM\",\"Somalie\",\"Somalia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "201,\"710\",\"ZA\",\"ZAF\",\"Afrique du Sud\",\"South Africa"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "202,\"716\",\"ZW\",\"ZWE\",\"Zimbabwe\",\"Zimbabwe"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "203,\"724\",\"ES\",\"ESP\",\"Espagne\",\"Spain"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "204,\"732\",\"EH\",\"ESH\",\"Sahara Occidental\",\"Western Sahara"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "205,\"736\",\"SD\",\"SDN\",\"Soudan\",\"Sudan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "206,\"740\",\"SR\",\"SUR\",\"Suriname\",\"Suriname"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "207,\"744\",\"SJ\",\"SJM\",\"Svalbard etÎle Jan Mayen\",\"Svalbard and Jan Mayen"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "208,\"748\",\"SZ\",\"SWZ\",\"Swaziland\",\"Swaziland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "209,\"752\",\"SE\",\"SWE\",\"Suède\",\"Sweden"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "210,\"756\",\"CH\",\"CHE\",\"Suisse\",\"Switzerland"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "211,\"760\",\"SY\",\"SYR\",\"République Arabe Syrienne\",\"Syrian Arab Republic"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "212,\"762\",\"TJ\",\"TJK\",\"Tadjikistan\",\"Tajikistan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "213,\"764\",\"TH\",\"THA\",\"Thaïlande\",\"Thailand"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "214,\"768\",\"TG\",\"TGO\",\"Togo\",\"Togo"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "215,\"772\",\"TK\",\"TKL\",\"Tokelau\",\"Tokelau"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "216,\"776\",\"TO\",\"TON\",\"Tonga\",\"Tonga"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "217,\"780\",\"TT\",\"TTO\",\"Trinité-et-Tobago\",\"Trinidad and Tobago"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "218,\"784\",\"AE\",\"ARE\",\"Émirats Arabes Unis\",\"United Arab Emirates"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "219,\"788\",\"TN\",\"TUN\",\"Tunisie\",\"Tunisia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "220,\"792\",\"TR\",\"TUR\",\"Turquie\",\"Turkey"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "221,\"795\",\"TM\",\"TKM\",\"Turkménistan\",\"Turkmenistan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "222,\"796\",\"TC\",\"TCA\",\"Îles Turks et Caïques\",\"Turks and Caicos Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "223,\"798\",\"TV\",\"TUV\",\"Tuvalu\",\"Tuvalu"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "224,\"800\",\"UG\",\"UGA\",\"Ouganda\",\"Uganda"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "225,\"804\",\"UA\",\"UKR\",\"Ukraine\",\"Ukraine"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "226,\"807\",\"MK\",\"MKD\",\"L'ex-République Yougoslave de Macédoine\",\"The Former Yugoslav Republic of Macedonia"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "227,\"818\",\"EG\",\"EGY\",\"Égypte\",\"Egypt"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "228,\"826\",\"GB\",\"GBR\",\"Royaume-Uni\",\"United Kingdom"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "229,\"833\",\"IM\",\"IMN\",\"Île de Man\",\"Isle of Man"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "230,\"834\",\"TZ\",\"TZA\",\"République-Unie de Tanzanie\",\"United Republic Of Tanzania"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "231,\"840\",\"US\",\"USA\",\"États-Unis\",\"United States"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "232,\"850\",\"VI\",\"VIR\",\"Îles Vierges des États-Unis\",\"U.S. Virgin Islands"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "233,\"854\",\"BF\",\"BFA\",\"Burkina Faso\",\"Burkina Faso"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "234,\"858\",\"UY\",\"URY\",\"Uruguay\",\"Uruguay"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "235,\"860\",\"UZ\",\"UZB\",\"Ouzbékistan\",\"Uzbekistan"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "236,\"862\",\"VE\",\"VEN\",\"Venezuela\",\"Venezuela"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "237,\"876\",\"WF\",\"WLF\",\"Wallis et Futuna\",\"Wallis and Futuna"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "238,\"882\",\"WS\",\"WSM\",\"Samoa\",\"Samoa"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "239,\"887\",\"YE\",\"YEM\",\"Yémen\",\"Yemen"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "240,\"891\",\"CS\",\"SCG\",\"Serbie-et-Monténégro\",\"Serbia and Montenegro"
+  },
+  {
+    "id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng": "241,\"894\",\"ZM\",\"ZMB\",\"Zambie\",\"Zambia"
+  }
+]

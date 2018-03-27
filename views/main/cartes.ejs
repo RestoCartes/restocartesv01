@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include ../partials/head %>
+</head>
+<body class="container">
+
+<header>
+    <% include ../partials/header %>
+</header>
+
+<main>
+
+    <div class="container">
+
+    <table id="listetable">
+        <tr>
+                <th><h3>Nom du Resto</h3></th>
+                <th><h3>Ville</h3></th>
+                <th><h3>Pays</h3></th>
+                <th><h3>Carte</h3></th>
+                <th><h3>Détails</h3></th>
+        </tr>
+        <% for (var i = 0; i < cartes.length; i++) { %>
+        <tr>
+            <td><h3><%= cartes[i].nom_resto %></h3></td>
+            <td><p><%= cartes[i].ville_resto %></p></td>
+<!--            <td><p><%= cartes[i].id_resto %></p></td> -->
+            <td><p><%= cartes[i].pays_resto %></p><%= cartes[i].id_resto %></p></p></td>
+            <td><a target="_blank" href="/images/<%= cartes[i].img_resto%>.jpg"><img class="small" src="/images/<%= cartes[i].img_resto %>.jpg"</td>
+            <td><form method="post">
+                <button type="submit" name="id_resto" value="<%= cartes[i]._id %>" class="btn btn-success">Show</button>
+        </tr>
+        <% } %>
+    </table>
+
+
+<!-- PAGINATION -->
+
+            <% if (pages > 0) { %>
+                <ul class="pagination text-center">
+                    <% if (current == 1) { %>
+                        <li class="disabled"><a>First</a></li>
+                    <% } else { %>
+                        <li><a href="/cartes/1">First</a></li>
+                    <% } %>
+                    <% var i = (Number(current) > 5 ? Number(current) - 4 : 1) %>
+                    <% if (i !== 1) { %>
+                        <li class="disabled"><a>...</a></li>
+                    <% } %>
+                    <% for (; i <= (Number(current) + 4) && i <= pages; i++) { %>
+                        <% if (i == current) { %>
+                            <li class="active"><a><%= i %></a></li>
+                        <% } else { %>
+                            <li><a href="/cartes/<%= i %>"><%= i %></a></li>
+                        <% } %>
+                        <% if (i == Number(current) + 4 && i < pages) { %>
+                            <li class="disabled"><a>...</a></li>
+                        <% } %>
+                    <% } %>
+                    <% if (current == pages) { %>
+                        <li class="disabled"><a>Last</a></li>
+                    <% } else { %>
+                        <li><a href="/cartes/<%= pages %>">Last</a></li>
+                    <% } %>
+                </ul>
+            <% } %>
+    </div>
+
+</main>
+
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+</body>
+</html>

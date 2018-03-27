@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include ../partials/head %>
+</head>
+<body class="container">
+
+<header>
+    <% include ../partials/header %>
+</header>
+
+<main>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-offset-3">
+                <h1>NOUVELLE CARTE</h1>
+                <form method="post" id="my-form">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <label for="nom_resto">Nom du Resto: </label>
+                                <input type="text" id="nom_resto" class="form-control" name="nom_resto">
+                            </div>
+                            <div class="form-group">
+                                <label for="adresse">Adresse: </label>
+                                <input type="text" id="adresse" class="form-control" name="adresse">
+                                <label for="zip">ZIP Code: </label>
+                                <input type="text" id="zip" class="form-control" name="zip">
+                                <label for="ville_resto">Ville: </label>
+                                <input type="text" id="ville_resto" class="form-control" name="ville_resto">
+                            </div>
+                            <div class="form-group">
+                                <label for="pays_resto">Pays: </label>
+<!--                                <input type="text" id="pays_resto" class="form-control" name="pays_resto"> -->
+                                    <select id="mySelectID" name="pay_resto" class="form-control">
+                                        <% for(var i=0; i < dropdownVals.length; i++) { %>
+                                            <option><%= dropdownVals[i].name %></option>
+                                        <% } %>
+                                        
+                                    </select>
+                            </div>
+                            <button type="submit" class="btn btn-success">Sauvegarder</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <% include ../partials/footer %>
+</footer>
+
+
+
+<script>
+/*
+// var s = '[{"nom":"Belgique","iso2":"BE"},{"nom":"France","iso2":"FR"}]';
+
+var s = require('countries.json');
+
+var jsonData = $.parseJSON(s);
+
+var $select = $('#mySelectID');
+$(jsonData).each(function (index, o) {    
+    var $option = $("<option/>").attr("value", o.CODE).text(o.nom);
+    $select.append($option);
+});
+*/
+</script>
+
+
+
+</body>
+</html>

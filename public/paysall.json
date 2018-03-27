@@ -1,0 +1,241 @@
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e20"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"2,\"8\",\"AL\",\"ALB\",\"Albanie\",\"Albania\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e21"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"3,\"10\",\"AQ\",\"ATA\",\"Antarctique\",\"Antarctica\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e22"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"4,\"12\",\"DZ\",\"DZA\",\"Algérie\",\"Algeria\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e23"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"5,\"16\",\"AS\",\"ASM\",\"Samoa Américaines\",\"American Samoa\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e24"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"6,\"20\",\"AD\",\"AND\",\"Andorre\",\"Andorra\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e25"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"7,\"24\",\"AO\",\"AGO\",\"Angola\",\"Angola\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e26"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"8,\"28\",\"AG\",\"ATG\",\"Antigua-et-Barbuda\",\"Antigua and Barbuda\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e27"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"9,\"31\",\"AZ\",\"AZE\",\"Azerbaïdjan\",\"Azerbaijan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e28"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"10,\"32\",\"AR\",\"ARG\",\"Argentine\",\"Argentina\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e29"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"11,\"36\",\"AU\",\"AUS\",\"Australie\",\"Australia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"12,\"40\",\"AT\",\"AUT\",\"Autriche\",\"Austria\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"13,\"44\",\"BS\",\"BHS\",\"Bahamas\",\"Bahamas\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"14,\"48\",\"BH\",\"BHR\",\"Bahreïn\",\"Bahrain\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"15,\"50\",\"BD\",\"BGD\",\"Bangladesh\",\"Bangladesh\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"16,\"51\",\"AM\",\"ARM\",\"Arménie\",\"Armenia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e2f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"17,\"52\",\"BB\",\"BRB\",\"Barbade\",\"Barbados\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e30"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"18,\"56\",\"BE\",\"BEL\",\"Belgique\",\"Belgium\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e31"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"19,\"60\",\"BM\",\"BMU\",\"Bermudes\",\"Bermuda\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e32"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"20,\"64\",\"BT\",\"BTN\",\"Bhoutan\",\"Bhutan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e33"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"21,\"68\",\"BO\",\"BOL\",\"Bolivie\",\"Bolivia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e34"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"22,\"70\",\"BA\",\"BIH\",\"Bosnie-Herzégovine\",\"Bosnia and Herzegovina\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e35"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"23,\"72\",\"BW\",\"BWA\",\"Botswana\",\"Botswana\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e36"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"24,\"74\",\"BV\",\"BVT\",\"Île Bouvet\",\"Bouvet Island\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e37"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"25,\"76\",\"BR\",\"BRA\",\"Brésil\",\"Brazil\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e38"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"26,\"84\",\"BZ\",\"BLZ\",\"Belize\",\"Belize\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e39"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"1,\"4\",\"AF\",\"AFG\",\"Afghanistan\",\"Afghanistan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"29,\"92\",\"VG\",\"VGB\",\"Îles Vierges Britanniques\",\"British Virgin Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"30,\"96\",\"BN\",\"BRN\",\"Brunéi Darussalam\",\"Brunei Darussalam\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"31,\"100\",\"BG\",\"BGR\",\"Bulgarie\",\"Bulgaria\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"32,\"104\",\"MM\",\"MMR\",\"Myanmar\",\"Myanmar\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"33,\"108\",\"BI\",\"BDI\",\"Burundi\",\"Burundi\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e3f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"34,\"112\",\"BY\",\"BLR\",\"Bélarus\",\"Belarus\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e40"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"27,\"86\",\"IO\",\"IOT\",\"Territoire Britannique de l'Océan Indien\",\"British Indian Ocean Territory\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e41"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"28,\"90\",\"SB\",\"SLB\",\"Îles Salomon\",\"Solomon Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e42"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"36,\"120\",\"CM\",\"CMR\",\"Cameroun\",\"Cameroon\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e43"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"38,\"132\",\"CV\",\"CPV\",\"Cap-vert\",\"Cape Verde\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e44"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"39,\"136\",\"KY\",\"CYM\",\"Îles Caïmanes\",\"Cayman Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e45"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"40,\"140\",\"CF\",\"CAF\",\"République Centrafricaine\",\"Central African\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e46"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"41,\"144\",\"LK\",\"LKA\",\"Sri Lanka\",\"Sri Lanka\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e47"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"42,\"148\",\"TD\",\"TCD\",\"Tchad\",\"Chad\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e48"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"43,\"152\",\"CL\",\"CHL\",\"Chili\",\"Chile\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e49"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"35,\"116\",\"KH\",\"KHM\",\"Cambodge\",\"Cambodia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"46,\"162\",\"CX\",\"CXR\",\"Île Christmas\",\"Christmas Island\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"47,\"166\",\"CC\",\"CCK\",\"Îles Cocos (Keeling)\",\"Cocos (Keeling) Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"44,\"156\",\"CN\",\"CHN\",\"Chine\",\"China\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"49,\"174\",\"KM\",\"COM\",\"Comores\",\"Comoros\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"50,\"175\",\"YT\",\"MYT\",\"Mayotte\",\"Mayotte\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e4f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"51,\"178\",\"CG\",\"COG\",\"République du Congo\",\"Republic of the Congo\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e50"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"52,\"180\",\"CD\",\"COD\",\"République Démocratique du Congo\",\"The Democratic Republic Of The Congo\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e51"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"37,\"124\",\"CA\",\"CAN\",\"Canada\",\"Canada\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e52"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"54,\"188\",\"CR\",\"CRI\",\"Costa Rica\",\"Costa Rica\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e53"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"55,\"191\",\"HR\",\"HRV\",\"Croatie\",\"Croatia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e54"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"56,\"192\",\"CU\",\"CUB\",\"Cuba\",\"Cuba\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e55"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"57,\"196\",\"CY\",\"CYP\",\"Chypre\",\"Cyprus\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e56"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"58,\"203\",\"CZ\",\"CZE\",\"République Tchèque\",\"Czech Republic\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e57"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"59,\"204\",\"BJ\",\"BEN\",\"Bénin\",\"Benin\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e58"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"60,\"208\",\"DK\",\"DNK\",\"Danemark\",\"Denmark\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e59"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"61,\"212\",\"DM\",\"DMA\",\"Dominique\",\"Dominica\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"48,\"170\",\"CO\",\"COL\",\"Colombie\",\"Colombia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"62,\"214\",\"DO\",\"DOM\",\"République Dominicaine\",\"Dominican Republic\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"63,\"218\",\"EC\",\"ECU\",\"Équateur\",\"Ecuador\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"64,\"222\",\"SV\",\"SLV\",\"El Salvador\",\"El Salvador\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"65,\"226\",\"GQ\",\"GNQ\",\"Guinée Équatoriale\",\"Equatorial Guinea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e5f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"66,\"231\",\"ET\",\"ETH\",\"Éthiopie\",\"Ethiopia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e60"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"45,\"158\",\"TW\",\"TWN\",\"Taïwan\",\"Taiwan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e61"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"53,\"184\",\"CK\",\"COK\",\"Îles Cook\",\"Cook Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e62"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"70,\"238\",\"FK\",\"FLK\",\"Îles (malvinas) Falkland\",\"Falkland Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e63"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"71,\"239\",\"GS\",\"SGS\",\"Géorgie du Sud et les Îles Sandwich du Sud\",\"South Georgia and the South Sandwich Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e64"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"72,\"242\",\"FJ\",\"FJI\",\"Fidji\",\"Fiji\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e65"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"73,\"246\",\"FI\",\"FIN\",\"Finlande\",\"Finland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e66"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"74,\"248\",\"AX\",\"ALA\",\"Îles Åland\",\"Åland Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e67"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"75,\"250\",\"FR\",\"FRA\",\"France\",\"France\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e68"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"76,\"254\",\"GF\",\"GUF\",\"Guyane Française\",\"French Guiana\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e69"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"77,\"258\",\"PF\",\"PYF\",\"Polynésie Française\",\"French Polynesia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"78,\"260\",\"TF\",\"ATF\",\"Terres Australes Françaises\",\"French Southern Territories\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"79,\"262\",\"DJ\",\"DJI\",\"Djibouti\",\"Djibouti\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"80,\"266\",\"GA\",\"GAB\",\"Gabon\",\"Gabon\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"81,\"268\",\"GE\",\"GEO\",\"Géorgie\",\"Georgia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"68,\"233\",\"EE\",\"EST\",\"Estonie\",\"Estonia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e6f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"67,\"232\",\"ER\",\"ERI\",\"Érythrée\",\"Eritrea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e70"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"84,\"276\",\"DE\",\"DEU\",\"Allemagne\",\"Germany\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e71"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"85,\"288\",\"GH\",\"GHA\",\"Ghana\",\"Ghana\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e72"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"86,\"292\",\"GI\",\"GIB\",\"Gibraltar\",\"Gibraltar\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e73"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"87,\"296\",\"KI\",\"KIR\",\"Kiribati\",\"Kiribati\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e74"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"88,\"300\",\"GR\",\"GRC\",\"Grèce\",\"Greece\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e75"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"89,\"304\",\"GL\",\"GRL\",\"Groenland\",\"Greenland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e76"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"90,\"308\",\"GD\",\"GRD\",\"Grenade\",\"Grenada\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e77"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"91,\"312\",\"GP\",\"GLP\",\"Guadeloupe\",\"Guadeloupe\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e78"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"92,\"316\",\"GU\",\"GUM\",\"Guam\",\"Guam\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e79"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"93,\"320\",\"GT\",\"GTM\",\"Guatemala\",\"Guatemala\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"94,\"324\",\"GN\",\"GIN\",\"Guinée\",\"Guinea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"95,\"328\",\"GY\",\"GUY\",\"Guyana\",\"Guyana\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"69,\"234\",\"FO\",\"FRO\",\"Îles Féroé\",\"Faroe Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"97,\"334\",\"HM\",\"HMD\",\"Îles Heard et Mcdonald\",\"Heard Island and McDonald Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"83,\"275\",\"PS\",\"PSE\",\"Territoire Palestinien Occupé\",\"Occupied Palestinian Territory\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e7f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"99,\"340\",\"HN\",\"HND\",\"Honduras\",\"Honduras\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e80"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"82,\"270\",\"GM\",\"GMB\",\"Gambie\",\"Gambia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e81"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"98,\"336\",\"VA\",\"VAT\",\"Saint-Siège (état de la Cité du Vatican)\",\"Vatican City State\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e82"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"96,\"332\",\"HT\",\"HTI\",\"Haïti\",\"Haiti\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e83"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"103,\"356\",\"IN\",\"IND\",\"Inde\",\"India\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e84"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"101,\"348\",\"HU\",\"HUN\",\"Hongrie\",\"Hungary\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e85"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"105,\"364\",\"IR\",\"IRN\",\"République Islamique d'Iran\",\"Islamic Republic of Iran\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e86"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"100,\"344\",\"HK\",\"HKG\",\"Hong-Kong\",\"Hong Kong\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e87"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"107,\"372\",\"IE\",\"IRL\",\"Irlande\",\"Ireland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e88"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"108,\"376\",\"IL\",\"ISR\",\"Israël\",\"Israel\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e89"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"104,\"360\",\"ID\",\"IDN\",\"Indonésie\",\"Indonesia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"110,\"384\",\"CI\",\"CIV\",\"Côte d'Ivoire\",\"Côte d'Ivoire\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"111,\"388\",\"JM\",\"JAM\",\"Jamaïque\",\"Jamaica\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"112,\"392\",\"JP\",\"JPN\",\"Japon\",\"Japan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"102,\"352\",\"IS\",\"ISL\",\"Islande\",\"Iceland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"114,\"400\",\"JO\",\"JOR\",\"Jordanie\",\"Jordan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e8f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"115,\"404\",\"KE\",\"KEN\",\"Kenya\",\"Kenya\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e90"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"116,\"408\",\"KP\",\"PRK\",\"République Populaire Démocratique de Corée\",\"Democratic People's Republic of Korea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e91"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"109,\"380\",\"IT\",\"ITA\",\"Italie\",\"Italy\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e92"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"118,\"414\",\"KW\",\"KWT\",\"Koweït\",\"Kuwait\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e93"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"119,\"417\",\"KG\",\"KGZ\",\"Kirghizistan\",\"Kyrgyzstan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e94"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"120,\"418\",\"LA\",\"LAO\",\"République Démocratique Populaire Lao\",\"Lao People's Democratic Republic\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e95"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"106,\"368\",\"IQ\",\"IRQ\",\"Iraq\",\"Iraq\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e96"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"122,\"426\",\"LS\",\"LSO\",\"Lesotho\",\"Lesotho\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e97"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"123,\"428\",\"LV\",\"LVA\",\"Lettonie\",\"Latvia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e98"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"124,\"430\",\"LR\",\"LBR\",\"Libéria\",\"Liberia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e99"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"125,\"434\",\"LY\",\"LBY\",\"Jamahiriya Arabe Libyenne\",\"Libyan Arab Jamahiriya\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"126,\"438\",\"LI\",\"LIE\",\"Liechtenstein\",\"Liechtenstein\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"117,\"410\",\"KR\",\"KOR\",\"République de Corée\",\"Republic of Korea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"127,\"440\",\"LT\",\"LTU\",\"Lituanie\",\"Lithuania\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"128,\"442\",\"LU\",\"LUX\",\"Luxembourg\",\"Luxembourg\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"129,\"446\",\"MO\",\"MAC\",\"Macao\",\"Macao\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849e9f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"130,\"450\",\"MG\",\"MDG\",\"Madagascar\",\"Madagascar\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"131,\"454\",\"MW\",\"MWI\",\"Malawi\",\"Malawi\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"132,\"458\",\"MY\",\"MYS\",\"Malaisie\",\"Malaysia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"121,\"422\",\"LB\",\"LBN\",\"Liban\",\"Lebanon\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"113,\"398\",\"KZ\",\"KAZ\",\"Kazakhstan\",\"Kazakhstan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"133,\"462\",\"MV\",\"MDV\",\"Maldives\",\"Maldives\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"134,\"466\",\"ML\",\"MLI\",\"Mali\",\"Mali\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"135,\"470\",\"MT\",\"MLT\",\"Malte\",\"Malta\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"136,\"474\",\"MQ\",\"MTQ\",\"Martinique\",\"Martinique\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"140,\"492\",\"MC\",\"MCO\",\"Monaco\",\"Monaco\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ea9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"138,\"480\",\"MU\",\"MUS\",\"Maurice\",\"Mauritius\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eaa"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"142,\"498\",\"MD\",\"MDA\",\"République de Moldova\",\"Republic of Moldova\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eab"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"143,\"500\",\"MS\",\"MSR\",\"Montserrat\",\"Montserrat\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eac"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"137,\"478\",\"MR\",\"MRT\",\"Mauritanie\",\"Mauritania\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ead"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"145,\"508\",\"MZ\",\"MOZ\",\"Mozambique\",\"Mozambique\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eae"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"146,\"512\",\"OM\",\"OMN\",\"Oman\",\"Oman\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eaf"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"141,\"496\",\"MN\",\"MNG\",\"Mongolie\",\"Mongolia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"148,\"520\",\"NR\",\"NRU\",\"Nauru\",\"Nauru\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"149,\"524\",\"NP\",\"NPL\",\"Népal\",\"Nepal\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"150,\"528\",\"NL\",\"NLD\",\"Pays-Bas\",\"Netherlands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"139,\"484\",\"MX\",\"MEX\",\"Mexique\",\"Mexico\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"152,\"533\",\"AW\",\"ABW\",\"Aruba\",\"Aruba\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"153,\"540\",\"NC\",\"NCL\",\"Nouvelle-Calédonie\",\"New Caledonia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"147,\"516\",\"NA\",\"NAM\",\"Namibie\",\"Namibia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"155,\"554\",\"NZ\",\"NZL\",\"Nouvelle-Zélande\",\"New Zealand\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"156,\"558\",\"NI\",\"NIC\",\"Nicaragua\",\"Nicaragua\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eb9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"157,\"562\",\"NE\",\"NER\",\"Niger\",\"Niger\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eba"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"144,\"504\",\"MA\",\"MAR\",\"Maroc\",\"Morocco\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ebb"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"159,\"570\",\"NU\",\"NIU\",\"Niué\",\"Niue\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ebc"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"160,\"574\",\"NF\",\"NFK\",\"Île Norfolk\",\"Norfolk Island\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ebd"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"154,\"548\",\"VU\",\"VUT\",\"Vanuatu\",\"Vanuatu\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ebe"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"162,\"580\",\"MP\",\"MNP\",\"Îles Mariannes du Nord\",\"Northern Mariana Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ebf"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"163,\"581\",\"UM\",\"UMI\",\"Îles Mineures Éloignées des États-Unis\",\"United States Minor Outlying Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"164,\"583\",\"FM\",\"FSM\",\"États Fédérés de Micronésie\",\"Federated States of Micronesia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"165,\"584\",\"MH\",\"MHL\",\"Îles Marshall\",\"Marshall Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"151,\"530\",\"AN\",\"ANT\",\"Antilles Néerlandaises\",\"Netherlands Antilles\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"166,\"585\",\"PW\",\"PLW\",\"Palaos\",\"Palau\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"167,\"586\",\"PK\",\"PAK\",\"Pakistan\",\"Pakistan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"168,\"591\",\"PA\",\"PAN\",\"Panama\",\"Panama\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"169,\"598\",\"PG\",\"PNG\",\"Papouasie-Nouvelle-Guinée\",\"Papua New Guinea\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"170,\"600\",\"PY\",\"PRY\",\"Paraguay\",\"Paraguay\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"161,\"578\",\"NO\",\"NOR\",\"Norvège\",\"Norway\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ec9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"158,\"566\",\"NG\",\"NGA\",\"Nigéria\",\"Nigeria\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eca"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"172,\"608\",\"PH\",\"PHL\",\"Philippines\",\"Philippines\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ecb"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"175,\"620\",\"PT\",\"PRT\",\"Portugal\",\"Portugal\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ecc"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"176,\"624\",\"GW\",\"GNB\",\"Guinée-Bissau\",\"Guinea-Bissau\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ecd"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"177,\"626\",\"TL\",\"TLS\",\"Timor-Leste\",\"Timor-Leste\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ece"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"178,\"630\",\"PR\",\"PRI\",\"Porto Rico\",\"Puerto Rico\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ecf"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"179,\"634\",\"QA\",\"QAT\",\"Qatar\",\"Qatar\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"180,\"638\",\"RE\",\"REU\",\"Réunion\",\"Réunion\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"181,\"642\",\"RO\",\"ROU\",\"Roumanie\",\"Romania\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"182,\"643\",\"RU\",\"RUS\",\"Fédération de Russie\",\"Russian Federation\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"171,\"604\",\"PE\",\"PER\",\"Pérou\",\"Peru\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"184,\"654\",\"SH\",\"SHN\",\"Sainte-Hélène\",\"Saint Helena\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"185,\"659\",\"KN\",\"KNA\",\"Saint-Kitts-et-Nevis\",\"Saint Kitts and Nevis\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"186,\"660\",\"AI\",\"AIA\",\"Anguilla\",\"Anguilla\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"187,\"662\",\"LC\",\"LCA\",\"Sainte-Lucie\",\"Saint Lucia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"188,\"666\",\"PM\",\"SPM\",\"Saint-Pierre-et-Miquelon\",\"Saint-Pierre and Miquelon\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ed9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"189,\"670\",\"VC\",\"VCT\",\"Saint-Vincent-et-les Grenadines\",\"Saint Vincent and the Grenadines\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eda"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"174,\"616\",\"PL\",\"POL\",\"Pologne\",\"Poland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849edb"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"190,\"674\",\"SM\",\"SMR\",\"Saint-Marin\",\"San Marino\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849edc"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"191,\"678\",\"ST\",\"STP\",\"Sao Tomé-et-Principe\",\"Sao Tome and Principe\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849edd"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"192,\"682\",\"SA\",\"SAU\",\"Arabie Saoudite\",\"Saudi Arabia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ede"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"193,\"686\",\"SN\",\"SEN\",\"Sénégal\",\"Senegal\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849edf"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"194,\"690\",\"SC\",\"SYC\",\"Seychelles\",\"Seychelles\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"195,\"694\",\"SL\",\"SLE\",\"Sierra Leone\",\"Sierra Leone\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"183,\"646\",\"RW\",\"RWA\",\"Rwanda\",\"Rwanda\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"173,\"612\",\"PN\",\"PCN\",\"Pitcairn\",\"Pitcairn\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"196,\"702\",\"SG\",\"SGP\",\"Singapour\",\"Singapore\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"197,\"703\",\"SK\",\"SVK\",\"Slovaquie\",\"Slovakia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"198,\"704\",\"VN\",\"VNM\",\"Viet Nam\",\"Vietnam\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"199,\"705\",\"SI\",\"SVN\",\"Slovénie\",\"Slovenia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"201,\"710\",\"ZA\",\"ZAF\",\"Afrique du Sud\",\"South Africa\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"204,\"732\",\"EH\",\"ESH\",\"Sahara Occidental\",\"Western Sahara\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ee9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"200,\"706\",\"SO\",\"SOM\",\"Somalie\",\"Somalia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eea"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"206,\"740\",\"SR\",\"SUR\",\"Suriname\",\"Suriname\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eeb"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"203,\"724\",\"ES\",\"ESP\",\"Espagne\",\"Spain\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eec"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"208,\"748\",\"SZ\",\"SWZ\",\"Swaziland\",\"Swaziland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eed"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"202,\"716\",\"ZW\",\"ZWE\",\"Zimbabwe\",\"Zimbabwe\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eee"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"210,\"756\",\"CH\",\"CHE\",\"Suisse\",\"Switzerland\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eef"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"207,\"744\",\"SJ\",\"SJM\",\"Svalbard etÎle Jan Mayen\",\"Svalbard and Jan Mayen\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef0"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"212,\"762\",\"TJ\",\"TJK\",\"Tadjikistan\",\"Tajikistan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef1"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"213,\"764\",\"TH\",\"THA\",\"Thaïlande\",\"Thailand\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef2"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"214,\"768\",\"TG\",\"TGO\",\"Togo\",\"Togo\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef3"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"215,\"772\",\"TK\",\"TKL\",\"Tokelau\",\"Tokelau\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef4"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"216,\"776\",\"TO\",\"TON\",\"Tonga\",\"Tonga\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef5"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"205,\"736\",\"SD\",\"SDN\",\"Soudan\",\"Sudan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef6"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"217,\"780\",\"TT\",\"TTO\",\"Trinité-et-Tobago\",\"Trinidad and Tobago\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef7"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"219,\"788\",\"TN\",\"TUN\",\"Tunisie\",\"Tunisia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef8"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"218,\"784\",\"AE\",\"ARE\",\"Émirats Arabes Unis\",\"United Arab Emirates\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849ef9"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"211,\"760\",\"SY\",\"SYR\",\"République Arabe Syrienne\",\"Syrian Arab Republic\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849efa"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"209,\"752\",\"SE\",\"SWE\",\"Suède\",\"Sweden\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849efb"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"223,\"798\",\"TV\",\"TUV\",\"Tuvalu\",\"Tuvalu\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849efc"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"221,\"795\",\"TM\",\"TKM\",\"Turkménistan\",\"Turkmenistan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849efd"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"224,\"800\",\"UG\",\"UGA\",\"Ouganda\",\"Uganda\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849efe"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"225,\"804\",\"UA\",\"UKR\",\"Ukraine\",\"Ukraine\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849eff"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"226,\"807\",\"MK\",\"MKD\",\"L'ex-République Yougoslave de Macédoine\",\"The Former Yugoslav Republic of Macedonia\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f00"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"227,\"818\",\"EG\",\"EGY\",\"Égypte\",\"Egypt\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f01"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"228,\"826\",\"GB\",\"GBR\",\"Royaume-Uni\",\"United Kingdom\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f02"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"220,\"792\",\"TR\",\"TUR\",\"Turquie\",\"Turkey\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f03"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"222,\"796\",\"TC\",\"TCA\",\"Îles Turks et Caïques\",\"Turks and Caicos Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f04"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"230,\"834\",\"TZ\",\"TZA\",\"République-Unie de Tanzanie\",\"United Republic Of Tanzania\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f05"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"231,\"840\",\"US\",\"USA\",\"États-Unis\",\"United States\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f06"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"229,\"833\",\"IM\",\"IMN\",\"Île de Man\",\"Isle of Man\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f07"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"234,\"858\",\"UY\",\"URY\",\"Uruguay\",\"Uruguay\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f08"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"232,\"850\",\"VI\",\"VIR\",\"Îles Vierges des États-Unis\",\"U.S. Virgin Islands\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f09"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"233,\"854\",\"BF\",\"BFA\",\"Burkina Faso\",\"Burkina Faso\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0a"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"235,\"860\",\"UZ\",\"UZB\",\"Ouzbékistan\",\"Uzbekistan\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0b"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"236,\"862\",\"VE\",\"VEN\",\"Venezuela\",\"Venezuela\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0c"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"237,\"876\",\"WF\",\"WLF\",\"Wallis et Futuna\",\"Wallis and Futuna\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0d"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"238,\"882\",\"WS\",\"WSM\",\"Samoa\",\"Samoa\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0e"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"239,\"887\",\"YE\",\"YEM\",\"Yémen\",\"Yemen\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f0f"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"240,\"891\",\"CS\",\"SCG\",\"Serbie-et-Monténégro\",\"Serbia and Montenegro\""}
+{"_id":{"$oid":"5ab8b6deaa1ee89293849f10"},"\"id\",\"code\",\"iso2\",\"iso3\",\"paysfr\",\"payseng\"":"241,\"894\",\"ZM\",\"ZMB\",\"Zambie\",\"Zambia\""}
