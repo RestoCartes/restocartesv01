@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 var app = express();
 
 var db = mongoose.connect('mongodb://localhost:27017/restocartes');
+var port = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
@@ -25,7 +26,7 @@ app.set('view engine', 'ejs');
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.listen(8080, function(){
-	console.log('Node.js listening on port ' + 8080)
+app.listen(port, function(){
+	console.log('Node.js listening on port ' + port)
 });
 
